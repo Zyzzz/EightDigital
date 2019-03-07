@@ -1,0 +1,5 @@
+﻿  EightDigitalClass.cpp
+c:\users\administrator\source\repos\eightdigitalclass\eightdigitalclass\eightdigitalclass.cpp(154): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\eightdigitalclass\eightdigitalclass\eightdigitalclass.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\eightdigitalclass\eightdigitalclass\eightdigitalclass.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+  EightDigitalClass.vcxproj -> C:\Users\Administrator\source\repos\EightDigitalClass\Debug\EightDigitalClass.exe
